@@ -36,9 +36,9 @@ public:
         cin >> pswd;
         cout << "ENTER Contact : ";
         cin >> contact;
+        fflush(stdin);
         cout << "ENTER Address : ";
         cin >> address;
-        cout << "--------------------------------------------" << endl;
         cout << "Thank You For Registration......." << endl;
     }
 };

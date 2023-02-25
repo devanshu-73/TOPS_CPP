@@ -1,0 +1,32 @@
+Concept Of OOP:
+
+Object : "Anything in the worl;d consider as an object "
+	
+	"It is an instance/example/representative of a class"
+
+Class:
+	"It is a blueprint for any object"
+
+	Apple is a Fruit
+
+	Note : "A class can have many objects 
+		But..
+		Object may only relate to a single class"
+
+Encapsulation : 
+
+	"It's the Process of wrapping up data into a single	
+	unit "
+
+Inheritance
+Polymorphism
+Abstraction
+
+
+
+
+
+
+
+
+

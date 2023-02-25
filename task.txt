@@ -1,0 +1,54 @@
+------------Welcome To Travel Agency-------------
+
+	Popular Destinations 
+	
+	ahmedabad
+	surat
+	..
+	maharastra
+
+	Do you want Membership ? ['y/n']:
+
+	if no:
+	Thank You For Visit 
+
+	if yes :
+==============================================================
+
+-------------------Enter Registration Details --------------------
+
+	Enter Name : 
+	Enter E-mail/user_name : 
+	Enter pswd : 
+	Enter Contact : 
+	Enter Address:
+
+	Thank You For Registration :
+
+
+------------------------------LOGIN------------------------------
+
+	user-name : 
+	pswd : 
+	
+	if u_name & pswd matched :
+	ACCESS DONE
+
+	If user_name or pswd wrong :
+	ACCESS DENIED 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

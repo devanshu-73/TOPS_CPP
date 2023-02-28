@@ -8,7 +8,6 @@ class Parent
 	
 	public:
 	int num1,num2;
-
 	
 	Parent display()
 	{
@@ -20,14 +19,15 @@ class Parent
 	
 		return obj;
 	}
-		
 };
+
+
 
 int main()
 {	
 	Parent o1,o2;
 	
-	o2=o1.display();
+	o1=o2.display();
 	
 	return 0;
 }

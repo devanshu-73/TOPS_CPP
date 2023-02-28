@@ -46,12 +46,14 @@ class Employee{
 		
 		void displayE()
 		{
+			cout<<"\n\n";
 			cout<<"Employee Name : "<<this->e_name<<endl;
 			cout<<"Employee Id : "<<this->emp_id<<endl;
 			cout<<"Employee Department : "<<this->e_dept<<endl;
 			cout<<"Employee City : "<<address->city<<endl;
 			cout<<"Employee State : "<<address->state<<endl;
 			cout<<"Employee Pin : "<<address->pin<<endl;
+			cout<<"\n\n";
 		}
 };
 

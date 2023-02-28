@@ -35,6 +35,7 @@
   ],
   "C_Cpp_Runner.useAddressSanitizer": false,
   "files.associations": {
-    "ostream": "cpp"
+    "ostream": "cpp",
+    "iostream": "cpp"
   }
 }
